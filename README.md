@@ -1,2 +1,2 @@
 # Proyecto Final Estructuras Datos y Algoritmos
-#Juan Miguel Arriola Mazo - Jean Carlo Ardila Acevedo
+Juan Miguel Arriola Mazo y Jean Carlo Ardila Acevedo
